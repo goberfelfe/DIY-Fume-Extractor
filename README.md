@@ -1,6 +1,7 @@
 # DIY-Fume-Extractor
 A DIY fume extractor that is slightly cheaper than the ones sold online.
 I made this for Hack Club Stasis as a simple first project. There isn't much to say or upload here since it's a fan with a box and a filter.
+
 <img src="https://github.com/goberfelfe/DIY-Fume-Extractor/raw/main/image1.png?raw=true" alt="Alt text" width="200" height="200">
 
 # Materials used:
